@@ -28,3 +28,14 @@ Aplicación de escritorio desarrollada en Python que permite cargar imágenes, a
 1. Instala las dependencias:
 ```bash
 pip install pillow
+```
+
+---
+
+**👤 Autor**
+
+Proyecto desarrollado por Javier Frances
+
+GitHub: JaviFrances7
+
+LinkedIn: https://es.linkedin.com/in/javier-frances-sanz
